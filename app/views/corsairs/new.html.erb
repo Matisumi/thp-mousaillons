@@ -1,0 +1,15 @@
+<h1>A new recrute ????</h1>
+<p>Who are you tiny shrimp ?!</p>
+
+
+<%= form_for @corsair, url: {action: "create"}, html: {class: "nifty_form"} do |f| %>
+	
+	<p><%= label_tag 'first_name', 'Name :' %> <br >
+  <%= f.text_field :first_name %></p>
+
+	<p><%= label_tag 'age', 'age :' %><br >
+  <%= f.number_field :age %></p>
+
+  <p><%= f.submit "Let's sail !" %></p>
+
+<% end %>
