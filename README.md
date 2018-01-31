@@ -1,24 +1,7 @@
-# README
+# saddly not working fully yet :/
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's late I don't have the time to take care of the details sorry 
 
-Things you may want to cover:
+## heroku link
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+https://mysterious-hollows-47960.herokuapp.com/
